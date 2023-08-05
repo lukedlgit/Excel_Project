@@ -1,0 +1,65 @@
+﻿----------------------- Page 1-----------------------
+
+Recoding data and re-running frequencies  
+Recode listing  
+
+ Listed_In                  Listed_In_R                       Listed_In                   Listed_In_R  
+
+Action & Adventure          Action & Adventure                Spanish-Language TV  
+                                                              Shows                       Spanish-Language  
+Anime Features              Anime  
+                                                              Sports Movies               Sports  
+Anime Series                Anime  
+                                                                                          Stand-Up Comedy &  
+ British TV Shows           British                           Stand-Up Comedy             Talk Shows  
+
+ Children & Family                                            Stand-Up Comedy &           Stand-Up Comedy &  
+ Movies                     Children & Family                 Talk Shows                  Talk Shows  
+
+ Classic & Cult TV          Classic & Cult                    Teen TV Shows               Teen  
+
+ Classic Movies             Classic                           Thrillers                   Thrillers  
+
+ Comedies                   Comedies                          TV Action & Adventure       Action & Adventure  
+
+ Crime TV Shows             Crime                             TV Comedies                 Comedies  
+
+ Cult Movies                Cult                              TV Dramas                   Dramas  
+
+ Documentaries              Documentaries                     TV Horror                   Horror  
+
+ Docuseries                 Documentaries                     TV Mysteries                Mysteries  
+
+ Dramas                     Dramas                            TV Sci-Fi & Fantasy         Sci-Fi & Fantasy  
+
+ Faith & Spirituality       Faith & Spirituality              TV Shows                    TV Show  
+
+ Horror Movies              Horror                            TV Thrillers                Thrillers  
+
+ Independent Movies         Independent                         
+
+ International Movies       International  
+
+ International TV Shows     International  
+
+ Kids' TV                   Children & Family  
+
+ Korean TV Shows            Korean  
+
+ LGBTQ Movies               LGBTQ  
+
+ Movies                     Movies  
+
+ Music & Musicals           Music & Musicals  
+
+ Reality TV                 Reality  
+
+ Romantic Movies            Romantic  
+
+ Romantic TV Shows          Romantic  
+
+ Science & Nature TV        Science & Nature  
+
+ Sci-Fi & Fantasy           Sci-Fi & Fantasy  
+
+DATA102x: Data Processing and Analysis with Excel   
